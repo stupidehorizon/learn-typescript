@@ -50,5 +50,9 @@ TypeScript 的核心原则之一就是对值所具有的结构进行类型检查
 
 6. abstract：抽象类，不能被实例化，用于基类
 
+### 函数
+
+nothing need to record
+
 
 
